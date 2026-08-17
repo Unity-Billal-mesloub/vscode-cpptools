@@ -1,6 +1,6 @@
 # C/C++ for Visual Studio Code
 
-#### [Repository](https://github.com/microsoft/vscode-cpptools)&nbsp;&nbsp;|&nbsp;&nbsp;[Issues](https://github.com/microsoft/vscode-cpptools/issues)&nbsp;&nbsp;|&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs/languages/cpp)&nbsp;&nbsp;|&nbsp;&nbsp;[Code Samples](https://github.com/microsoft/vscode-cpptools/tree/main/Code%20Samples)
+#### [Repository](https://github.com/Unity-Billal-mesloub/vscode-cpptools)&nbsp;&nbsp;|&nbsp;&nbsp;[Issues](https://github.com/Unity-Billal-mesloub/vscode-cpptools/issues)&nbsp;&nbsp;|&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs/languages/cpp)&nbsp;&nbsp;|&nbsp;&nbsp;[Code Samples](https://github.com/Unity-Billal-mesloub/vscode-cpptools/tree/main/CodeSamples)
 
 [![Badge](https://aka.ms/vsls-badge)](https://aka.ms/vsls)
 
@@ -51,12 +51,12 @@ C/C++ extension tutorials per compiler and platform
 Check out the FAQs before filing a question.
 <br>
 
-**[Provide feedback](https://github.com/microsoft/vscode-cpptools/issues/new/choose)**
+**[Provide feedback](https://github.com/Unity-Billal-mesloub/vscode-cpptools/issues/new/choose)**
 <br>
 File questions, issues, or feature requests for the extension.
 <br>
 
-**[Known issues](https://github.com/Microsoft/vscode-cpptools/issues)**
+**[Known issues](https://github.com/Unity-Billal-mesloub/vscode-cpptools/issues)**
 <br>
 If someone has already filed an issue that encompasses your feedback, please leave a 👍 or 👎 reaction on the issue to upvote or downvote it to help us prioritize the issue.
 <br>
@@ -64,10 +64,6 @@ If someone has already filed an issue that encompasses your feedback, please lea
 **[Quick survey](https://www.research.net/r/VBVV6C6)**
 <br>
 Let us know what you think of the extension by taking the quick survey.
-
-## Contribution
-
-Contributions are always welcome. Please see our [contributing guide](CONTRIBUTING.md) for more details.
 
 ## Microsoft Open Source Code of Conduct
 
