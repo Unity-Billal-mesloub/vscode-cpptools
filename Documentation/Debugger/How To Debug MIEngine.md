@@ -2,20 +2,20 @@
 
 MIEngine is one of the components used to enable the C/C++ debugging scenario with the Microsoft C/C++ extension with VS Code. This document is to help enable users who want to debug and contribute to MIEngine to fix issues or extend functionality. MIEngine is used to communicate with `gdb`/`lldb` using the MI protocol.
 
-**Repository:** https://github.com/Microsoft/MIEngine
+**Repository:** https://github.com/Unity-Billal-mesloub/MIEngine
 
 ## To Build
 
-To build MIEngine, you will either need Visual Studio 2015+ installed or at the very least [MSBuild](https://github.com/Microsoft/msbuild) installed. The configuration you want to build is `Desktop.Debug`.
+To build MIEngine, you will either need Visual Studio 2015+ installed or at the very least [MSBuild](https://github.com/Unity-Billal-mesloub/msbuild) installed. The configuration you want to build is `Desktop.Debug`.
 
 You can open the solution file **MIDebugEngine.sln** located under **src** and change the configuration and build. You will want to look in the **bin\Desktop.Debug** folder for the compiled bits. You will need to copy the following files to your **.vscode\extensions\ms-vscode.cpptools-\<version\>\debugadapters\bin** folder in your users/home folder:
 
-* Microsoft.MICore.dll
-* Microsoft.MICore.XmlSerializers.dll
-* Microsoft.MIDebugEngine.dll
+* Unity-Billal-mesloub.MICore.dll
+* Unity-Billal-mesloub.MICore.XmlSerializers.dll
+* Unity-Billal-mesloub.MIDebugEngine.dll
 * vscode\OpenDebugAD7.exe
-* vscode\Microsoft.DebugEngineHost.dll
-* vscode\Microsoft.VisualStudio.Shared.VSCodeDebugProtocol.dll
+* vscode\Unity-Billal-mesloub.DebugEngineHost.dll
+* vscode\Unity-Billal-mesloub.VisualStudio.Shared.VSCodeDebugProtocol.dll
 
 The symbol files are as follows:
 
